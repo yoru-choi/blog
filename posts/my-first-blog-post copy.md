@@ -1,7 +1,7 @@
 ---
-title: My First Blog Post
+title: my-first-blog-post copy
 published: false
-description: This is my first blog post using the dev.to API
+description: This is my first blog post using the dev.to APImy-first-blog-post copy
 tags: beginners, tutorial, webdev
 cover_image: https://example.com/your-cover-image.jpg
 series: Getting Started with dev.to
